@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "369519529002",
+    "firebase_url": "https://fir-e-25ad2-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fir-e-25ad2",
+    "storage_bucket": "fir-e-25ad2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369519529002:android:c8baf002f4447ddd558753",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_fire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369519529002-m37cu2cl4vioumefggh9l9pg167jcelm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt9q82KnJtFbeGDGkQiR_OK1iveYOrz8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369519529002-m37cu2cl4vioumefggh9l9pg167jcelm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
